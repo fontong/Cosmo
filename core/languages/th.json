@@ -1,44 +1,44 @@
 {
-    "close": "Close",
-    "back": "Back",
-    "search": "Search",
-    "name": "Name",
-    "code": "Code",
-    "section": "Section",
-    "priority": "Priority",
-    "no": "No",
-    "yes": "Yes",
-    "delete": "delete",
-    "save": "save",
-    "header": "Header",
-    "footer": "Footer",
-    "sidebar": "Sidebar",
-    "block": "Block",
-    "archives": "Archives",
-    "all": "All",
-    "type": "Type",
-    "author": "Author",
-    "tags": "Tags",
-    "username": "Username",
-    "password": "Password",
-    "register": "Register",
-    "login": "Log In",
-    "add": "add",
-    "editing": "Editing",
-    "area": "Area",
-    "primary": "Primary",
-    "secondary": "Secondary",
-    "menu": "Menu",
-    "settings": "Settings",
-    "install": "Install",
-    "title": "Title",
-    "description": "Description",
-    "discard": "discard",
-    "compare": "compare",
-    "use": "use",
-    "publish": "Publish",
-    "draft": "Draft",
-    "schedule": "Schedule",
+    "close": "Close","ปิด"
+    "back": "Back","หลัง,ส่วนหลัง"
+    "search": "Search","สืบหา,ค้นหา"
+    "name": "Name","ชื่อ"
+    "code": "Code","รหัส"
+    "section": "Section","การตัดออก,ส่วนที่ตัดออก"
+    "priority": "Priority","การมาก่อน,การมีสิทธิ์ก่อน"
+    "no": "No","ไม่"
+    "yes": "Yes","ไช่"
+    "delete": "delete","ลบ"
+    "save": "save","ประหยัด,บันทึก"
+    "header": "Header","ส่วนหัว,หัวข้อ"
+    "footer": "Footer","ข้อความส่วนท้าย"
+    "sidebar": "Sidebar","แถบด้านข้าง"
+    "block": "Block","ปิดกั้น"
+    "archives": "Archives","เอกสารหรือบันทึกสำคัญ"
+    "all": "All","ทั้งหมด"
+    "type": "Type","ชนิด,แบบ"
+    "author": "Author","ผู้ประพันธ์,นักเขัยน"
+    "tags": "Tags","ติดป้าย,แถบป้ายบอกข้อมูล"
+    "username": "Username","ชื่อผู้ใช้"
+    "password": "Password","รหัสผ่าน,คำผ่าน"
+    "register": "Register","การลงทะเบียน"
+    "login": "Log In","เข้าสู่ระบบ"
+    "add": "add",ใส่,เพิ่มเติม,บวก
+    "editing": "Editing","การแก้ไข,การตัดต่อ"
+    "area": "Area","พื้นที่"
+    "primary": "Primary","สำัญที่สุด,อันดับแรก"
+    "secondary": "Secondary","ลำดับสอง"
+    "menu": "Menu","เมนู,รายการ"
+    "settings": "Settings","สถานที่ติดตั้ง"
+    "install": "Install","การติดตั้ง"
+    "title": "Title","หัวข้อ"
+    "description": "Description","การบรรยาย"
+    "discard": "discard","ละทิ้ง"
+    "compare": "compare","เปรียบเทียบ"
+    "use": "use","ใช้,วิธีใช้"
+    "publish": "Publish","จัดพิมพ์,ตีพิมพ์"
+    "draft": "Draft","ต้นร่าง,ฉบับร่าง"
+    "schedule": "Schedule","รายการหมายกำหนดการ"
     "url": "URL",
     "duplicate": "duplicate",
     "email": "Email",
@@ -94,12 +94,12 @@
     "files_media": "Media",
     "files_add_media": "Add Media",
     "files_alt_text": "Alt Text",
-    "files_down": "Down",
-    "files_up": "Up",
-    "files_remove": "Remove",
+    "files_down": "Down","ลง"
+    "files_up": "Up","ขึ้น"
+    "files_remove": "Remove","เอาออก"
     "files_search_media": "Search Media",
     "files_images": "Images",
-    "files_video": "Video",
+    "files_video": "Video","วิดีโอ"
     "files_audio": "Audio",
     "files_files": "Files",
     "files_upload": "Upload",
